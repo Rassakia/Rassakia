@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rassakia
-- 👀 I’m interested in learning how web development
+- 👀 I’m interested in learning web development
 - 🌱 I’m currently learning HTML,CSS AND JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on WhatsApp+2349031191906
