@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rassakia
--I'm a recent bootcamp graduate and aspiring UI/UX designer with a strong passion for learning and growth. I'm eager to gain hands-on experience and explore opportunities in the field. I'm ready to contribute, collaborate, and continuously upskill through real-world projects.
+👋 Hi, I’m @Rassakia
+I’m a UI/UX designer with a strong passion for learning and growth, eager to gain hands‑on experience in the fintech space. My focus is on designing intuitive, user‑centered digital experiences that make financial products more accessible and engaging. I’m ready to contribute, collaborate, and continuously upskill through real‑world projects, while exploring opportunities to innovate at the intersection of design and finance.
 - 📫 How to reach me on WhatsApp+2349031191906
 
 
